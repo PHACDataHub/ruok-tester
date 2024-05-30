@@ -4,4 +4,3 @@ webEndpoints:
 githubEndpoints:
 - https://github.com/PHACDataHub/ruok-service-autochecker
 - https://github.com/PHACDataHub/phac-bots
-- https://github.com/PHACDataHub/statscan-phac-diffpriv-collab
