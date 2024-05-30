@@ -1,0 +1,6 @@
+productName: Ruok-tester
+webEndpoints:
+- https://www.lipsum.com
+githubEndpoints:
+- https://github.com/PHACDataHub/ruok-service-autochecker
+- https://github.com/PHACDataHub/phac-bots
